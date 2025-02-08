@@ -17,7 +17,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Desarrollador Frontend</h3>
               <p>
-                Construyo sitios web responsivos.
+                Construyo sitios web con diseño responsive.
               </p>
             </div>
           </li>
@@ -26,7 +26,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Desarrollador Backend</h3>
               <p>
-                Conocimientos en backend y desarrollo de APIS
+              Experiencia en desarrollo backend y creación de APIs eficientes.
               </p>
             </div>
           </li>

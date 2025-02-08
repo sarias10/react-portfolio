@@ -1,0 +1,9 @@
+[
+    {
+      "role": "Practicante de desarrollo de software",
+      "organisation": "Metro de Medellin",
+      "startDate": "Sept. 2024 - Feb. 2025 · 6 meses",
+      "description": "Centralice y unifique la consulta de información del inventario y ventas de tarjetas del metro de los diferentes sistemas en los que estaba la información. El aplicativo guarda la información en base de datos y esta se puede consultar a traves de una api y un reporte de excel. Esto permitió tener un historial de inventario que facilita el seguimiento del stock de tarjetas.",
+      "imageSrc": "laboralExperience/metroMedellin.png"
+    }
+]

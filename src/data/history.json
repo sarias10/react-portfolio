@@ -29,13 +29,5 @@
     ],
     "imageSrc": "history/voxy.png",
     "link": "https://app.voxy.com/certificates/proficiency-test/64c40169cf5fc0ff17c99b75/"
-  },
-  {
-    "role": "Introductotion to Data Science in Python",
-    "organisation": "Coursera",
-    "startDate": "2022",
-    "experiences": [],
-    "imageSrc": "history/coursera.png",
-    "link": "https://www.coursera.org/account/accomplishments/certificate/7YTWYXKTDRPJ"
   }
 ]

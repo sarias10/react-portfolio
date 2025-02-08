@@ -24,7 +24,7 @@ export const ProjectCard = ({
       </ul>
       <div className={styles.links}>
         <a href={demo} className={styles.link}>
-          Demo
+          Link
         </a>
         <a href={source} className={styles.link}>
           Codigo

@@ -1,27 +1,19 @@
 [
   {
-    "title": "Pokedex website",
-    "imageSrc": "projects/pokedex.png",
-    "description": "Este es un proyecto que cree para obtener datos de una API y poner en practica mis conocimientos de React.",
-    "skills": ["React", "HTML","CSS", "Javascript"],
-    "demo": "https://react-pokedex-website.netlify.app/",
-    "source": "https://github.com/Hoid14/react-pokedex-website"
+    "title": "Full Stack Open Bloglist",
+    "imageSrc": "projects/fullstackopen-bloglist.png",
+    "description": "Esta aplicación forma parte del curso de desarrollo web Fullstack Open de la Universidad de Helsinki. Implementa registro y autenticación de usuarios mediante JSON Web Tokens (JWT), permitiendo a los usuarios iniciar sesión de forma segura. Los usuarios pueden crear y eliminar blogs, cuyos datos se almacenan en una base de datos MongoDB Atlas.",
+    "skills": ["React", "Node.js","Express","MongoDB","Mongoose","Json web tokens"],
+    "demo": "https://fullstackopen-bloglist-backend.onrender.com/",
+    "source": "https://github.com/sarias10/fullstackopen-bloglist?tab=readme-ov-file"
   },
   {
-    "title": "Movie website",
-    "imageSrc": "projects/peliculas.png",
-    "description": "Este proyecto lo hice con React, obtiene datos de la API de omdb para mostrar y guardar peliculas y estilice la pagina con Tailwind CSS.",
-    "skills": ["React", "Tailwind CSS", "Javascript"],
-    "demo": "https://react-movie-website-portfolio.netlify.app/",
-    "source": "https://github.com/Hoid14/react-movie-website"
-  },
-  {
-    "title": "Ecommerce website",
-    "imageSrc": "projects/ecommerce.png",
-    "description": "Sitio web de Ecommerce con funcionalidad de agregar y remover items del carrito, el cual usa localstorage para el almacenamiento.",
-    "skills": ["React", "HTML","CSS", "Javascript"],
-    "demo": "https://react-ecommerce-hoid.netlify.app/",
-    "source": "https://github.com/Hoid14/react-ecommerce"
+    "title": "Full Stack Open phonebook",
+    "imageSrc": "projects/phonebook.png",
+    "description": "Esta aplicación forma parte del curso Fullstack Open de la Universidad de Helsinki. Permite gestionar una agenda de contactos, con funcionalidad para agregar, editar y eliminar números telefónicos. Utiliza React en el frontend y Node.js con Express en el backend, almacenando los datos en una base de datos MongoDB.",
+    "skills": ["React", "Node.js","Express","MongoDB","Mongoose"],
+    "demo": "https://github.com/sarias10/fullstackopen-phonebook-backend",
+    "source": "https://github.com/sarias10/fullstackopen-phonebook-backend"
   },
   {
     "title": "Memory card pokemon",
@@ -30,13 +22,5 @@
     "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://javascript-memory-pokemon-game.netlify.app/",
     "source": "https://github.com/Hoid14/javascript-memory-card"
-  },
-  {
-    "title": "Sitio web de notas",
-    "imageSrc": "projects/notas.png",
-    "description": "Sitio web de creacion de notas con registro de usuario y autenticacion por medio de JSON web Tokens, tiene backend hecho con django, el cual esta desplegado en Render.com",
-    "skills": ["Django", "Python", "React", "HTML","CSS","Javascript"],
-    "demo": "https://react-app-notes.netlify.app",
-    "source": "https://github.com/Hoid14/react-django-app"
   }
 ]
