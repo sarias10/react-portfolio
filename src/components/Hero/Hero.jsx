@@ -9,9 +9,14 @@ export const Hero = () => {
         <p className={styles.description}>
         Soy desarrollador Fullstack con experiencia en React, Node.js, Express y bases de datos MongoDB.
         </p>
-        <a href="#contact" className={styles.contactBtn}>
-          Contactame
-        </a>
+        <div className={styles.buttons}>
+          <a href="#contact" className={styles.contactBtn}>
+            Contactame
+          </a>
+          <a href="/assets/cv/cv_sergio_arias.pdf" className={styles.contactBtn} target="_blank" rel="noopener noreferrer">
+            Ver CV
+          </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/heroImage1.png")}

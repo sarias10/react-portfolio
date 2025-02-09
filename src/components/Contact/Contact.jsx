@@ -18,11 +18,11 @@ export const Contact = () => {
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/in/sergio-andres-arias-jimenez-54832425b/">linkedin.com/sergio-arias</a>
+          <a href="https://www.linkedin.com/in/sergio-andres-arias-jimenez-54832425b/" target="_blank" rel="noopener noreferrer">linkedin.com/sergio-arias</a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://github.com/Hoid14">github.com/sergio-arias</a>
+          <a href="https://github.com/sarias10" target="_blank" rel="noopener noreferrer">github.com/sergio-arias</a>
         </li>
       </ul>
     </footer>

@@ -39,6 +39,11 @@
   margin-bottom: 52px;
 }
 
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+
 .contactBtn {
   text-decoration: none;
   background-color: var(--color-primary);
