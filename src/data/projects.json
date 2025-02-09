@@ -1,18 +1,26 @@
 [
   {
-    "title": "Full Stack Open Bloglist",
+    "title": "Bloglist app",
     "imageSrc": "projects/fullstackopen-bloglist.png",
-    "description": "Esta aplicación forma parte del curso de desarrollo web Fullstack Open de la Universidad de Helsinki. Implementa registro y autenticación de usuarios mediante JSON Web Tokens (JWT), permitiendo a los usuarios iniciar sesión de forma segura. Los usuarios pueden crear y eliminar blogs, cuyos datos se almacenan en una base de datos MongoDB Atlas.",
+    "description": "La aplicación implementa registro y autenticación de usuarios mediante JSON Web Tokens (JWT), permitiendo a los usuarios iniciar sesión de forma segura. Los usuarios pueden crear y eliminar blogs, cuyos datos se almacenan en una base de datos MongoDB Atlas. Esta aplicación forma parte del curso de desarrollo web Fullstack Open de la Universidad de Helsinki. ",
     "skills": ["React", "Node.js","Express","MongoDB","Mongoose","Json web tokens"],
     "demo": "https://fullstackopen-bloglist-backend.onrender.com/",
     "source": "https://github.com/sarias10/fullstackopen-bloglist?tab=readme-ov-file"
   },
   {
-    "title": "Full Stack Open phonebook",
+    "title": "Let your note",
+    "imageSrc": "projects/letYourNote.png",
+    "description": "La aplicación permite crear notas públicas visibles para otros usuarios. Además, ofrece la opción de marcar notas como importantes, facilitando la visualización de todas las notas o solo aquellas destacadas. Tanto los usuarios como las notas se almacenan en una base de datos MongoDB. Esta aplicación forma parte del curso de desarrollo web Fullstack Open de la Universidad de Helsinki.",
+    "skills": ["React", "Node.js","Express","MongoDB","Mongoose","Json web tokens"],
+    "demo": "https://fullstack-open-practica-backend-notes.onrender.com/",
+    "source": "https://github.com/sarias10/fullstack_open_practica_backend_notes"
+  },
+  {
+    "title": "Phonebook",
     "imageSrc": "projects/phonebook.png",
-    "description": "Esta aplicación forma parte del curso Fullstack Open de la Universidad de Helsinki. Permite gestionar una agenda de contactos, con funcionalidad para agregar, editar y eliminar números telefónicos. Utiliza React en el frontend y Node.js con Express en el backend, almacenando los datos en una base de datos MongoDB.",
+    "description": "Permite gestionar una agenda de contactos, con funcionalidad para agregar, editar y eliminar números telefónicos. Utiliza React en el frontend y Node.js con Express en el backend, almacenando los datos en una base de datos MongoDB. Esta aplicación forma parte del curso Fullstack Open de la Universidad de Helsinki. ",
     "skills": ["React", "Node.js","Express","MongoDB","Mongoose"],
-    "demo": "https://github.com/sarias10/fullstackopen-phonebook-backend",
+    "demo": "https://fullstackopen-phonebook-backend-1i8h.onrender.com",
     "source": "https://github.com/sarias10/fullstackopen-phonebook-backend"
   },
   {
