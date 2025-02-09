@@ -13,7 +13,7 @@ export const Hero = () => {
           <a href="#contact" className={styles.contactBtn}>
             Contactame
           </a>
-          <a href="/assets/cv/cv_sergio_arias.pdf" className={styles.contactBtn} target="_blank" rel="noopener noreferrer">
+          <a href={getImageUrl("cv/cv_sergio_arias.pdf")} className={styles.contactBtn} target="_blank" rel="noopener noreferrer">
             Ver CV
           </a>
         </div>
