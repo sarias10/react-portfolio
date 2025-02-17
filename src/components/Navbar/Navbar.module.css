@@ -28,12 +28,12 @@
 
 .menuItems {
   display: flex;
-  gap: 47px;
+  gap: 30px;
   list-style: none;
 }
 
 .menuItems a {
-  font-size: 25px;
+  font-size: 23px;
   color: var(--color-text);
   text-decoration: none;
 }
