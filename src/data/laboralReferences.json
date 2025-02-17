@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Julian Munera",
+        "jobPosition": "Profesional 1 de servicios y aplicaciones",
+        "company": "Metro de medellín",
+        "number": "+57 3195995057",
+        "professionalLink": "Exjefe de servicios y aplicaciones en Metro de Medellín",
+        "imageSrc": "laboralExperience/metroMedellin.png"
+    },
+    {
+        "name": "Pablo Hernández",
+        "jobPosition": "Profesional 1 Especialista sénior",
+        "company": "Metro de medellín",
+        "number": "+57 3168079275",
+        "professionalLink": "Compañero sénior en Metro de Medellín",
+        "imageSrc": "laboralExperience/metroMedellin.png"
+    }
+]

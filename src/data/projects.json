@@ -8,6 +8,14 @@
     "source": "https://github.com/sarias10/fullstackopen-bloglist?tab=readme-ov-file"
   },
   {
+    "title": "Notes in AWS",
+    "imageSrc": "projects/aws-notes.png",
+    "description": "En esta aplicación de ejemplo, quise poner a prueba mis conocimientos sobre la nube de AWS. Para ello, utilicé diversos servicios de Amazon para desarrollar y desplegar una aplicación de notas fullstack, abarcando tanto el frontend como el backend, y además implementé pipelines en GitHub Actions para automatizar el proceso de despliegue de ambos repositorios.",
+    "skills": ["Typescript","Express", "Sequelize", "EC2", "Docker", "Apigateway", "Amazon RDS", "Postgresql", "React", "S3", "Cloudfront", "Cloud map", "Github actions"],
+    "demo": "https://d1h9ffdvcgkqp8.cloudfront.net/",
+    "source": "https://github.com/sarias10/aws-backend-test"
+  },
+  {
     "title": "Let your note",
     "imageSrc": "projects/letYourNote.png",
     "description": "La aplicación permite crear notas públicas visibles para otros usuarios. Además, ofrece la opción de marcar notas como importantes, facilitando la visualización de todas las notas o solo aquellas destacadas. Tanto los usuarios como las notas se almacenan en una base de datos MongoDB. Esta aplicación forma parte del curso de desarrollo web Fullstack Open de la Universidad de Helsinki.",

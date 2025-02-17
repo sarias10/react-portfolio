@@ -7,6 +7,7 @@ import { Experience } from './components/Experience/Experience'
 import { Projects } from './components/Projects/Projects'
 import { Contact } from './components/Contact/Contact'
 import { LaboralExperience } from './components/LaboralExperience/LaboralExperience'
+import { LaboralReferences } from './components/LaboralReferences/LaboralReferences'
 
 function App() {
   
@@ -18,6 +19,7 @@ function App() {
     <LaboralExperience/>
     <Experience/>
     <Projects/>
+    <LaboralReferences/>
     <Contact/>
   </div>
   )

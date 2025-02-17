@@ -4,8 +4,32 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
     "title": "Express",
     "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "Aws EC2",
+    "imageSrc": "skills/EC2.png"
+  },
+  {
+    "title": "Aws S3",
+    "imageSrc": "skills/S3.png"
+  },
+  {
+    "title": "Aws Cloudfront",
+    "imageSrc": "skills/cloudfront.png"
+  },
+  {
+    "title": "Aws RDS",
+    "imageSrc": "skills/RDS.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
   },
   {
     "title": "React",
@@ -14,6 +38,10 @@
   {
     "title": "Mongo",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "postgresql",
+    "imageSrc": "skills/postgresql.png"
   },
   {
     "title": "HTML",
