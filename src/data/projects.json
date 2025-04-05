@@ -1,5 +1,14 @@
 [
   {
+    "title": "Instagram demake",
+   "imageSrc": "projects/instagramDemake.png",
+   "description": "Este proyecto es un clon de Instagram, completamente desplegado en servicios de AWS. El proceso de despliegue del frontend y backend está automatizado con GitHub Actions. La aplicación permite registro y login de usuarios, tambien permite crear y eliminar publicaciones, así como agregar likes y comentarios.",
+    "skills": ["Typescript","Express", "Sequelize", "EC2", "Docker", "NGINX", "CLOUDFARE", "Amazon RDS", "Postgresql", "React", "S3", "Cloudfront", "Github actions"],
+    "demo": "https://instagram-demake.sarias.uk/",
+   "source": "https://github.com/sarias10/aws-frontend-test",
+   "source_backend": "https://github.com/sarias10/aws-backend-test"
+  },
+  {
     "title": "Bloglist app",
     "imageSrc": "projects/fullstackopen-bloglist.png",
     "description": "La aplicación implementa registro y autenticación de usuarios mediante JSON Web Tokens (JWT), permitiendo a los usuarios iniciar sesión de forma segura. Los usuarios pueden crear y eliminar blogs, cuyos datos se almacenan en una base de datos MongoDB Atlas. Esta aplicación forma parte del curso de desarrollo web Fullstack Open de la Universidad de Helsinki. ",
