@@ -31,13 +31,5 @@
     "skills": ["React", "Node.js","Express","MongoDB","Mongoose"],
     "demo": "https://fullstackopen-phonebook-backend-1i8h.onrender.com",
     "source": "https://github.com/sarias10/fullstackopen-phonebook-backend"
-  },
-  {
-    "title": "Memory card pokemon",
-    "imageSrc": "projects/memory-card-pokemon.png",
-    "description": "Juego de encontrar coincidencias pokemon. Por medio de javascript manejo la logica del juego.",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://javascript-memory-pokemon-game.netlify.app/",
-    "source": "https://github.com/Hoid14/javascript-memory-card"
   }
 ]
