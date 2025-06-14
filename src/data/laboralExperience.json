@@ -2,8 +2,8 @@
     {
       "role": "Practicante de desarrollo de software",
       "organisation": "Metro de Medellin",
-      "startDate": "Sept. 2024 - Feb. 2025 · 6 meses",
-      "description": "Centralice y unifique la consulta de información del inventario y ventas de tarjetas del metro de dos bases de datos diferentes en una sola base de datos. Esto permitió consolidar la información de dos sistemas diferentes en un solo reporte de Excel, facilitando al usuario final la consulta del inventario directamente desde el reporte. A su vez, el aplicativo también permitió registrar un histórico de la cantidad de inventario en cada punto de venta a lo largo del tiempo ya que no se registraba antes. La información, además del excel, también se puede consultar a través de una api . Algunas tecnologías que use fueron ECS fargate, AWS Lambda, Oracle, Sql server y Mongodb Atlas.",
+      "startDate": "Ago. 2024 - Feb. 2025 · 6 meses",
+      "description": "Centralice y unifique la consulta de información del inventario y ventas de tarjetas del metro de dos bases de datos diferentes en una sola base de datos. Esto permitió consolidar la información de dos sistemas diferentes en un solo reporte de Excel. A su vez, el aplicativo también permitió registrar un histórico de la cantidad de inventario en cada punto de venta a lo largo del tiempo ya que no se registraba antes. Algunas tecnologías que use fueron ECS fargate, AWS Lambda, Oracle, Sql server y Mongodb Atlas.",
       "imageSrc": "laboralExperience/metroMedellin.png"
     }
 ]
