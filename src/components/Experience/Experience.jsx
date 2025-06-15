@@ -38,7 +38,10 @@ export const Experience = () => {
                     })}
                   </ul>
                   {historyItem.link !== null && 
-                  <h2><a href={`${historyItem.link}`}>ver certificado</a></h2>
+                  <h2><a href={`${historyItem.link}`} target="_blank">ver certificado</a></h2>
+                  }
+                  {historyItem.degreeTitle && // si existe la propiedad en el json
+                  <h2><a href={getImageUrl(`${historyItem.degreeTitle}`)} target="_blank">ver diploma</a></h2>
                   }
                 </div>
               </li>
