@@ -3,11 +3,21 @@
     "title": "Instagram demake",
     "imageSrc": "projects/instagramDemake.png",
     "description": "Este proyecto es un clon de Instagram, completamente desplegado en servicios de AWS. El proceso de despliegue del frontend y backend está automatizado con GitHub Actions. La aplicación permite registro y login de usuarios, tambien permite crear y eliminar publicaciones, así como agregar likes y comentarios.",
-    "skills": ["Typescript","Express", "Sequelize", "EC2", "Docker", "NGINX", "CLOUDFARE", "Amazon RDS", "Postgresql", "React", "S3", "Cloudfront", "Github actions"],
+    "skills": ["Typescript","Express", "Sequelize", "EC2", "Docker", "NGINX", "CLOUDFlARE", "Amazon RDS", "Postgresql", "React", "S3", "Cloudfront", "Github actions"],
     "video_explain_demo": "https://www.youtube.com/watch?v=Wojw2Cp-O8k",
     "demo": "https://instagram-demake.sarias.uk/",
     "source": "https://github.com/sarias10/aws-frontend-test",
     "source_backend": "https://github.com/sarias10/aws-backend-test"
+  },
+  {
+    "title": "Backend products",
+    "imageSrc": "projects/backendProducts.png",
+    "description": "Este proyecto es un CRUD hecho con Spring Boot y Angular 17, como parte de un curso que tomé sobre estas tecnologías. El sitio web está completamente desplegado en servicios de AWS.",
+    "skills": ["Java", "Spring boot", "Typescript", "Angular", "EC2", "Docker", "NGINX", "CLOUDFLARE", "Amazon RDS", "Postgresql", "S3", "Cloudfront"],
+    "video_explain_demo": "",
+    "demo": "https://backend-products.sarias.uk/",
+    "source": "https://github.com/sarias10/angular-app",
+    "source_backend": "https://github.com/sarias10/backend-products"
   },
   {
     "title": "Bloglist app",

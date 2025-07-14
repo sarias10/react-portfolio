@@ -9,6 +9,18 @@
     "degreeTitle": "degrees/diplomaActaSinCedula.pdf"
   },
   {
+    "role": "Spring Framework 6 & Spring Boot 3 desde cero a experto",
+    "organisation": "Udemy",
+    "startDate": "2025",
+    "experiences": [
+      "Spring-framework 6",
+      "Spring boot 3",
+      "Angular 17"
+    ],
+    "imageSrc": "history/udemy.png",
+    "link": "https://www.udemy.com/certificate/UC-de95c60e-ceae-41d6-9c40-00821fa54862/"
+  },
+  {
     "role": "5 courses specialization: Web Design for Everybody: Basics of Web Development & Coding",
     "organisation": "Coursera",
     "startDate": "2023",
