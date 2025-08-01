@@ -2,8 +2,23 @@
     {
       "role": "Practicante de desarrollo de software",
       "organisation": "Metro de Medellin",
+      "startDate": "Ago. 2024 - Actualidad",
+      "description": "Diseñé y desarrollé un sistema POS para tiendas y minimarkets con funciones de facturación, gestión de inventario y autenticación de empleados por medio de JWT y roles, usando Spring Boot, Angular, PostgreSQL y desplegado en Amazon EC2 y RDS.",
+      "imageSrc": "laboralExperience/pos.png"
+    },
+    {
+      "role": "Practicante de desarrollo de software",
+      "organisation": "Metro de Medellin",
       "startDate": "Ago. 2024 - Feb. 2025 · 6 meses",
       "description": "Centralice y unifique la consulta de información del inventario y ventas de tarjetas del metro de tres bases de datos diferentes en una sola base de datos. Esto permitió consolidar la información de tres sistemas diferentes en un solo reporte de Excel. A su vez, el aplicativo también permitió registrar un histórico de la cantidad de inventario en cada punto de venta a lo largo del tiempo ya que no se registraba antes. Algunas tecnologías que use fueron ECS fargate, AWS Lambda, Oracle, Sql server y Mongodb Atlas.",
       "imageSrc": "laboralExperience/metroMedellin.png"
+    },
+    {
+      "role": "Desarrollador de software POS",
+      "organisation": "Minimarket City Club Autoservicio, Refresquería MercaExpress La Villa",
+      "startDate": "Feb. 2024 - Julio. 2025 · 6 meses",
+      "description": "Diseñé y desarrollé un sistema POS para tiendas y minimarkets con funciones de facturación, gestión de inventario y autenticación de empleados por medio de JWT y roles, usando Spring Boot, Angular, PostgreSQL y desplegado en Amazon EC2 y RDS.",
+      "imageSrc": "laboralExperience/pos.png"
     }
+
 ]
