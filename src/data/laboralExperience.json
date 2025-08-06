@@ -1,8 +1,8 @@
 [
     {
-      "role": "Practicante de desarrollo de software",
-      "organisation": "Metro de Medellin",
-      "startDate": "Ago. 2024 - Actualidad",
+      "role": "Desarrollador de software POS",
+      "organisation": "Minimarket City Club Autoservicio, Refresquería MercaExpress La Villa",
+      "startDate": "Feb. 2025 - Actualidad",
       "description": "Diseñé y desarrollé un sistema POS para tiendas y minimarkets con funciones de facturación, gestión de inventario y autenticación de empleados por medio de JWT y roles, usando Spring Boot, Angular, PostgreSQL y desplegado en Amazon EC2 y RDS.",
       "imageSrc": "laboralExperience/pos.png"
     },
