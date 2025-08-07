@@ -19,6 +19,13 @@
       "startDate": "Feb. 2024 - Julio. 2025 · 6 meses",
       "description": "Diseñé y desarrollé un sistema POS para tiendas y minimarkets con funciones de facturación, gestión de inventario y autenticación de empleados por medio de JWT y roles, usando Spring Boot, Angular, PostgreSQL y desplegado en Amazon EC2 y RDS.",
       "imageSrc": "laboralExperience/pos.png"
+    },
+    {
+      "role": "Desarrollador y mantenedor de software",
+      "organisation": "Conjunto Residencial El Club",
+      "startDate": "Ene. 2024 - Dic. 2025 · 1 año",
+      "description": "Desarrollé una página interna para la administración y actualización de los datos de los residentes. Automatice procesos administrativos para la generación de facturas y reportes de Excel relacionados con el pago de la administración. Desarrollé dashboards para visualizar información de pagos y residentes en mora",
+      "imageSrc": "laboralExperience/pos.png"
     }
 
 ]
