@@ -14,5 +14,13 @@
         "number": "+57 3168079275",
         "professionalLink": "Compañero sénior en Metro de Medellín",
         "imageSrc": "laboralExperience/metroMedellin.png"
+    },
+    {
+        "name": "Miguel de Jesus Orozco Rojas",
+        "jobPosition": "Administrador",
+        "company": "Conjunto residencial El Club",
+        "number": "+57 3024003362",
+        "professionalLink": "Administrador del club",
+        "imageSrc": "laboralExperience/elClub.png"
     }
 ]
